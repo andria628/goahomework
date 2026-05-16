@@ -8,5 +8,4 @@ for i in range(100):
 # selection არის არჩევნის გაკეთება
 # ალგორითმი არის ნაბიჯ ნაბიჯ ტუტორიალი
 for i in range(20):
-    print("andria")
-         
+    print("andria")    
