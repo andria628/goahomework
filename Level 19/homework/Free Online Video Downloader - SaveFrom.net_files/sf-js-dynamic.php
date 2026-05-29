@@ -1,0 +1,1 @@
+(function(){  if (typeof _sf !== 'undefined') {    _sf.isPro = false;    _sf.proMode = "";    _sf.proCancelReason = null;    _sf.subscriptionEndDate = null;    _sf.expiryMailSent = null;    _sf.userStatusResult = null;  }})();
